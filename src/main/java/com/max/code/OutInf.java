@@ -8,5 +8,6 @@ public class OutInf {
         System.out.println("master,commit");
         System.out.println("hot-fix,commit");
         System.out.println("pull-github");
+        System.out.println("pull-rename-test");
     }
 }
